@@ -1,0 +1,33 @@
+C;Ciencia da Computacao;CIC;FACOM;50
+D;GBC021;Algoritmos e Estruturas de Dados I;Joao Santos;90;45
+D;GBC033;Organizacao de Computadores;Ana Pereira;60;40
+D;GSI003;Matematica para Ciencia da Computacao;Maria Silva;60;55
+D;GBC045;Redes de Computadores;Lucas Ferreira;60;38
+C;Sistemas de Informacao;SI;FACOM;50
+D;GSI003;Matematica para Ciencia da Computacao;Maria Silva;60;55
+D;GSI023;Engenharia de Requisitos;Carlos Lima;60;50
+D;GSI025;Banco de Dados;Beatriz Costa;60;48
+C;Engenharia de Software;ES;FACOM;40
+D;GES001;Introducao a Engenharia de Software;Ricardo Alves;60;35
+D;GES005;Qualidade de Software;Fernanda Rocha;60;38
+C;Administracao;ADM;FAGEN;60
+D;GAD001;Teoria Geral da Administracao;Marcos Andrade;60;58
+D;GAD005;Gestao de Pessoas;Lucia Martins;60;55
+C;Ciencias Contabeis;CC;FACIC;50
+D;GCC002;Contabilidade Geral;Roberto Souza;90;45
+D;GCC010;Contabilidade de Custos;Paula Borges;60;42
+C;Direito;DIR;FADIR;50
+D;GDR001;Introducao ao Estudo do Direito;Sergio Mota;60;50
+D;GDR007;Direito Constitucional;Carla Dias;90;49
+C;Medicina;MED;FAMED;80
+D;GME001;Anatomia Humana I;Helena Faria;120;75
+D;GME005;Fisiologia Humana;Marcelo Tavares;90;78
+C;Engenharia Civil;EC;FECIV;40
+D;GEC001;Desenho Tecnico;Vanessa Neves;60;38
+D;GEC015;Resistencia dos Materiais I;Andre Castro;90;35
+C;Psicologia;PSI;FAPSI;40
+D;GPS002;Psicologia do Desenvolvimento;Isabela Correia;60;39
+D;GPS011;Teorias da Personalidade;Fabio Ribeiro;60;40
+C;Jornalismo;JOR;FACED;45
+D;GJO001;Teorias da Comunicacao;Daniela Barros;60;42
+D;GJO004;Redacao Jornalistica I;Tiago Nunes;90;44
